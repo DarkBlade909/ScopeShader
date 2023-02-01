@@ -7,3 +7,5 @@ Features:
 * Multiple Reticle Options
 * Metallic/Smoothness maps
 * Variable parallax settings
+
+![image](https://user-images.githubusercontent.com/52094720/215962562-29483b4c-410d-49be-9488-242e8219fc2a.png)
